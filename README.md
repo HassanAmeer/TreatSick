@@ -18,5 +18,12 @@ easy to understand all codes every One Can Study These File Codes
 
 
 # ❤ Image Demo
-### for full demo to install this projects by flutter we have not a video demo for tbis
+### for full demo to install this projects by flutter we have not a video demo for this
 ![snippets in action](https://github.com/HassanAmeer/TreatSick/blob/main/treatsickdemo1.png)
+
+### °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°
+![snippets in action](https://github.com/HassanAmeer/TreatSick/blob/main/hassangithubgif.gif)
+
+
+
+
