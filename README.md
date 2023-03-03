@@ -1,5 +1,6 @@
 # TreatSick
 Flutter Medicines suggestions App
+### Complete TreatSick App with Firebase admin Panel 
 
 easy to understand all codes every One Can Study These File Codes
 <code> Flutter dart </code>
@@ -9,7 +10,7 @@ easy to understand all codes every One Can Study These File Codes
 
 ### Currently these all files of project is private due to the client permission issue
  if anybody need this then email to get personally for one person 
- we provides this projects files feel free
+ we provides this projects files. feel free
  
 <i> Flutter Marketeplace </i>
 <br> </br>
@@ -17,5 +18,5 @@ easy to understand all codes every One Can Study These File Codes
 
 
 # ❤ Image Demo
-### for full demo to install tgis projects by flutter we have not a video demo for tbis
-![snippets in action](https://github.com/HassanAmeer/Flutter-Chat-App-UI/blob/main/chat_demo_ui.gif)
+### for full demo to install this projects by flutter we have not a video demo for tbis
+![snippets in action](https://github.com/HassanAmeer/TreatSick/blob/main/treatsickdemo1.png)
